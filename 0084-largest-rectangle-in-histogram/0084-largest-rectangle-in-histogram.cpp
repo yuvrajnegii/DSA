@@ -5,7 +5,7 @@ public:
         heights.push_back(0);   // sentinel to flush remaining bars
         int maxArea = 0;
 
-        for (int i = 0; i < (int)heights.size(); i++) {
+        for (int i = 0; i < heights.size(); i++) {
             while (!st.empty() && heights[st.top()] > heights[i]) {
                 int height = heights[st.top()];
                 st.pop();
