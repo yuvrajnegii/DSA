@@ -7,10 +7,10 @@ public:
         while(left<right){
             int area=min(height[left],height[right])*(right-left);
             maxA=max(area,maxA);
-            if(height[right]<height[left])
-                left--;
+            if(height[right]>height[left])
+                left++;
             else
-                right++;
+                right--;
             
         }
         return maxA;
