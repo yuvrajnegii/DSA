@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yuvrajnegii/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yuvrajnegii/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/yuvrajnegii/DSA/tree/master/0125-valid-palindrome) |
@@ -115,9 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
