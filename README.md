@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yuvrajnegii/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/yuvrajnegii/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
