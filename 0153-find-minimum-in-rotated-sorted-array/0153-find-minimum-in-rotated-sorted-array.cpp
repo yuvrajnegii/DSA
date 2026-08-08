@@ -6,17 +6,12 @@ public:
         int high = nums.size() - 1;
 
         while(low < high) {
-
             int mid = low + (high - low) / 2;
-
-            if(nums[mid] <= nums[high]) {
+            if(nums[mid] <= nums[high]) 
                 high = mid;        // min is at mid or left
-            }
-            else {
+            else 
                 low = mid + 1;     // min is in right half
-            }
         }
-
         return nums[low];
     }
 };
