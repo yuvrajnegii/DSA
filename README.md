@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajnegii/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yuvrajnegii/DSA/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
