@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yuvrajnegii/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yuvrajnegii/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvrajnegii/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yuvrajnegii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvrajnegii/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yuvrajnegii/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/yuvrajnegii/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/yuvrajnegii/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
