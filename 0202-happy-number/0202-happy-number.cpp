@@ -15,7 +15,7 @@ public:
     bool isHappy(int n) {
         int slow = n;
         int fast = nextNumber(n);
-
+        //both do not start with n because the upcoming condition wont let the loop run
         while (fast != 1 && slow != fast) {
             slow = nextNumber(slow);
             fast = nextNumber(nextNumber(fast));
