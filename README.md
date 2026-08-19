@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajnegii/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/yuvrajnegii/DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/yuvrajnegii/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/yuvrajnegii/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
@@ -178,4 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
