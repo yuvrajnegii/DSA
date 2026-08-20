@@ -38,13 +38,12 @@ public:
                 }
             if(enough){
                 ListNode* reverseHead = rev(start, k);
-                if(!newhead){
+                if(!newhead)
                    newhead=reverseHead;
-                   prevend=start;
-                }
+                 
                 else
                     prevend->next=reverseHead;
-                    prevend=start;
+                prevend=start;
             }
             else{
                 prevend->next=start;
