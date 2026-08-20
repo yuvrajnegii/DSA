@@ -8,47 +8,58 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
-    ListNode*rev(ListNode* head, int k){
-        ListNode* prev=nullptr;
-        ListNode*curr=head;
-        while(k){
-            ListNode*next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
+    // Return the new head of the reversed group
+    ListNode* rev(ListNode* head, int k) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        while(k) {
+            ListNode* next = curr->next; // Save next node
+            curr->next = prev;           // Reverse current node's link
+            prev = curr;                 // Move prev forward
+            curr = next;                 // Move curr forward
             k--;
         }
-        return prev;
+        return prev; // New head of reversed group
     }
+
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* temp=head;
-        ListNode* newhead=nullptr;
-        ListNode* prevend=nullptr;
-        while(temp){
-            bool enough=true;
-            ListNode* start=temp;
+        ListNode* temp = head;
+        // Head of the final answer
+        ListNode* newhead = nullptr;
+        // Last node of the previous reversed group
+        ListNode* prevend = nullptr;
+        while(temp) {
+            bool enough = true;
+            // Start of the current group
+            ListNode* start = temp;
+            // Check whether k nodes are available
             for(int i = 0; i < k; i++) {
-                if(temp == nullptr){
-                    enough=false;
+                if(temp == nullptr) {
+                    enough = false;
                     break;
                 }
-                temp=temp->next;
-                }
-            if(enough){
+                temp = temp->next;
+            }
+            // We have exactly k nodes, so reverse this group
+            if(enough) {
                 ListNode* reverseHead = rev(start, k);
                 if(!newhead)
-                   newhead=reverseHead;
-                 
+                    newhead = reverseHead;
+                // Connect previous reversed group to current group
                 else
-                    prevend->next=reverseHead;
-                prevend=start;
+                    prevend->next = reverseHead;
+                // Original start becomes the last node
+                // after reversal
+                prevend = start;
             }
-            else{
-                prevend->next=start;
-                prevend=start;
-                }
+            // Fewer than k nodes remain
+            else {
+                prevend->next = start;
+                prevend = start;
+            }
         }
         return newhead;
     }
