@@ -12,13 +12,13 @@
 class Solution {
 public:
     int mpath(TreeNode* root, int& msum) {
-        if(!root)
+        if (!root)
             return 0;
         int left = max(0, mpath(root->left, msum));
         int right = max(0, mpath(root->right, msum));
-        // Best path passing through this node
+        // Best complete path passing through this node
         msum = max(msum, left + root->val + right);
-        // Return only one side to the parent
+        // Return the best one-sided path to parent
         return root->val + max(left, right);
     }
 
