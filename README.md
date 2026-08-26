@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/yuvrajnegii/DSA/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
