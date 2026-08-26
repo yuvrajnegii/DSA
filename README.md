@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/yuvrajnegii/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yuvrajnegii/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajnegii/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yuvrajnegii/DSA/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yuvrajnegii/DSA/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
