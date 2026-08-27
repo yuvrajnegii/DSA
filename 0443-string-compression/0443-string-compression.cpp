@@ -4,8 +4,8 @@ public:
         string s;
         if(chars.size()==1)
             return 1;
-            int read=0,count=1;
-            s+=chars[read];
+        int read=0,count=1;
+        s+=chars[read];
         for(int write=1;write<chars.size();write++)
         {
             if(chars[read]==chars[write] )
