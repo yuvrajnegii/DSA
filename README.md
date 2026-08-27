@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajnegii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajnegii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvrajnegii/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/yuvrajnegii/DSA/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -280,4 +283,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/yuvrajnegii/DSA/tree/master/0180-consecutive-numbers) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
