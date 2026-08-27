@@ -10,12 +10,10 @@ public:
             for(int i=0;i<k;i++){
                 hr += ((long long)piles[i] + mid-1)/mid;
             }
-            if(hr<=h){
+            if(hr<=h)
                 high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }     
+            else
+                low=mid+1;  
         }
         return low;
     }
