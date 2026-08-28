@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
+| [1200-minimum-absolute-difference](https://github.com/yuvrajnegii/DSA/tree/master/1200-minimum-absolute-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yuvrajnegii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvrajnegii/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1200-minimum-absolute-difference](https://github.com/yuvrajnegii/DSA/tree/master/1200-minimum-absolute-difference) |
 ## String
 |  |
 | ------- |
