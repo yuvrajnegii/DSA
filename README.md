@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajnegii/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yuvrajnegii/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yuvrajnegii/DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/yuvrajnegii/DSA/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yuvrajnegii/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/yuvrajnegii/DSA/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
