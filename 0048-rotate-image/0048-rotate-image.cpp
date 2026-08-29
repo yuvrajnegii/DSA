@@ -8,11 +8,16 @@ public:
                 swap(matrix[i][j],matrix[j][i]);
         }
         //reverse
+        for(int i=0;i<n;i++){
+            reverse(matrix[i].begin(),matrix[i].end());
+        }
+        /*
         for(int i=0;i<n/2;i++){
             for(int j=0;j<n;j++){
                 swap(matrix[j][i],matrix[j][n-1-i]);
+                //or reverse(m[i].begin(),m[i].end());
             }
         }
-        
+        */
     }
 };
