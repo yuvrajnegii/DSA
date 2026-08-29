@@ -4,6 +4,7 @@ public:
         if(s.size() != goal.size())
             return false;
         auto str=s+s;
+        //return str.find(goal) == string::npos (better)
         int pos = str.find(goal);
         if(pos != -1)
             return true;
