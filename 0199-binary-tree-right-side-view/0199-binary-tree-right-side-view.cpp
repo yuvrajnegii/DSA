@@ -5,6 +5,7 @@ public:
             return;
         if(level == arr.size())
             arr.push_back(root->val);
+        //level jyada hua to left nhi dikhega simple
         pushright(root->right, arr, level + 1);
         pushright(root->left, arr, level + 1);
     }
