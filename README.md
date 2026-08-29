@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajnegii/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/yuvrajnegii/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajnegii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvrajnegii/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/yuvrajnegii/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajnegii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajnegii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
