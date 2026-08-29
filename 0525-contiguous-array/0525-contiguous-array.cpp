@@ -14,9 +14,9 @@ public:
                 int size=i-mp[prefix];
                 maxl=max(maxl,size);
             }
-            else{
+            else
                 mp[prefix]=i;
-            }
+                //updating inside else so that we wont update the past index(to maximize length)
         }
         return maxl;
     }
