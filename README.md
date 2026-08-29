@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yuvrajnegii/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yuvrajnegii/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yuvrajnegii/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/yuvrajnegii/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yuvrajnegii/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yuvrajnegii/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/yuvrajnegii/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 ## Union-Find
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvrajnegii/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/yuvrajnegii/DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/yuvrajnegii/DSA/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Tree
