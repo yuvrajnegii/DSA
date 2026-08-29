@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/yuvrajnegii/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/yuvrajnegii/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
