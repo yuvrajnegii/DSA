@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/yuvrajnegii/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/yuvrajnegii/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvrajnegii/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yuvrajnegii/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yuvrajnegii/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yuvrajnegii/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yuvrajnegii/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/yuvrajnegii/DSA/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/yuvrajnegii/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yuvrajnegii/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yuvrajnegii/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvrajnegii/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yuvrajnegii/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/yuvrajnegii/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yuvrajnegii/DSA/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Tree
