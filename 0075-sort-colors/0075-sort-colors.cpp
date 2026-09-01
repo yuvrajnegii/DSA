@@ -2,7 +2,6 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         int count[3] = {0};
-
         // Count 0s, 1s, and 2s
         for (int num : nums) {
             count[num]++;
