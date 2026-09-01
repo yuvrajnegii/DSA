@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/yuvrajnegii/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvrajnegii/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvrajnegii/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yuvrajnegii/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajnegii/DSA/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvrajnegii/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
