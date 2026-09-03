@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yuvrajnegii/DSA/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvrajnegii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3280-convert-date-to-binary](https://github.com/yuvrajnegii/DSA/tree/master/3280-convert-date-to-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yuvrajnegii/DSA/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/yuvrajnegii/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
+| [3280-convert-date-to-binary](https://github.com/yuvrajnegii/DSA/tree/master/3280-convert-date-to-binary) |
 ## Tree
 |  |
 | ------- |
