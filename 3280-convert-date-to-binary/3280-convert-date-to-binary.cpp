@@ -1,39 +1,29 @@
 class Solution {
 public:
-
     string binary(int n) {
-        if(n == 0)
-            return "0";
-
+        if(n == 0) return "0";
         string s = "";
-
         while(n > 0) {
             s += (n % 2) + '0';
             n /= 2;
         }
-
         reverse(s.begin(), s.end());
-
         return s;
     }
 
     string convertDateToBinary(string date) {
         string ans = "";
         string num = "";
-
         for(char c : date) {
             if(c == '-') {
                 ans += binary(stoi(num));
                 ans += '-';
                 num = "";
             }
-            else {
+            else 
                 num += c;
-            }
         }
-
         ans += binary(stoi(num));
-
         return ans;
     }
 };
