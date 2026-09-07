@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvrajnegii/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yuvrajnegii/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvrajnegii/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yuvrajnegii/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajnegii/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3280-convert-date-to-binary](https://github.com/yuvrajnegii/DSA/tree/master/3280-convert-date-to-binary) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yuvrajnegii/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
