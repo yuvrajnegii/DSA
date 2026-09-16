@@ -21,4 +21,4 @@ class Solution {
         }
         return mp.isEmpty();
     }
-}
+}//or do by frequeny of alphabets
