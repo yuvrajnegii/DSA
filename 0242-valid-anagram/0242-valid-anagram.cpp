@@ -7,4 +7,5 @@ public:
             return true;
         return false;
     }
+    //better hash
 };
