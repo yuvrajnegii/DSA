@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yuvrajnegii/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yuvrajnegii/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yuvrajnegii/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajnegii/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yuvrajnegii/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/yuvrajnegii/DSA/tree/master/0118-pascals-triangle) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvrajnegii/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/yuvrajnegii/DSA/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yuvrajnegii/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/yuvrajnegii/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/yuvrajnegii/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
