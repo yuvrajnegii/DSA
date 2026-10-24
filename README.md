@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yuvrajnegii/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yuvrajnegii/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/yuvrajnegii/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/yuvrajnegii/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajnegii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuvrajnegii/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yuvrajnegii/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajnegii/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajnegii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/yuvrajnegii/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Sliding Window
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yuvrajnegii/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yuvrajnegii/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yuvrajnegii/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/yuvrajnegii/DSA/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
