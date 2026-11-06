@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajnegii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yuvrajnegii/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/yuvrajnegii/DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/yuvrajnegii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/yuvrajnegii/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/yuvrajnegii/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajnegii/DSA/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/yuvrajnegii/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yuvrajnegii/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvrajnegii/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/yuvrajnegii/DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
