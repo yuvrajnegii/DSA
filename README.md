@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yuvrajnegii/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/yuvrajnegii/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajnegii/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajnegii/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/yuvrajnegii/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuvrajnegii/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajnegii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yuvrajnegii/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajnegii/DSA/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/yuvrajnegii/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -510,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuvrajnegii/DSA/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
