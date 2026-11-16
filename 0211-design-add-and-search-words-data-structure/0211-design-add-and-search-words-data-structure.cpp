@@ -25,6 +25,7 @@ public:
         }
         crawl->flag=true;
     }
+    
     bool searchUtil(Node* root,string word){
         Node* crawl=root;
         for(int i = 0;i < word.length();i ++){
