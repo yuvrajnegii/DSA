@@ -1,4 +1,3 @@
-
 class Trie {
 public:
     struct Node {
@@ -6,8 +5,9 @@ public:
         bool flag;
 
         Node() {
-            for(int i = 0; i < 26; i++) 
+            for(int i = 0; i < 26; i++) {
                 links[i] = nullptr;
+            }
             flag = false;
         }
     };
@@ -15,17 +15,12 @@ public:
     Trie() {
         root = new Node();
     }
-
     void insert(string word) {
         Node* node = root;
-
         for(char ch : word) {
             int idx = ch - 'a';
-
-            if(node->links[idx] == nullptr) {
+            if(node->links[idx] == nullptr) 
                 node->links[idx] = new Node();
-            }
-
             node = node->links[idx];
         }
         node->flag = true;
@@ -33,10 +28,9 @@ public:
 
     bool search(string word) {
         Node* node = root;
-
         for(char ch : word) {
             int idx = ch - 'a';
-            if(node->links[idx] == nullptr)
+            if(node->links[idx] == nullptr) 
                 return false;
             node = node->links[idx];
         }
@@ -47,7 +41,7 @@ public:
         Node* node = root;
         for(char ch : prefix) {
             int idx = ch - 'a';
-            if(node->links[idx] == nullptr)
+            if(node->links[idx] == nullptr) 
                 return false;
             node = node->links[idx];
         }
