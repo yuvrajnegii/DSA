@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yuvrajnegii/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajnegii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajnegii/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yuvrajnegii/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/yuvrajnegii/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/yuvrajnegii/DSA/tree/master/0344-reverse-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/yuvrajnegii/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajnegii/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yuvrajnegii/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/yuvrajnegii/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/yuvrajnegii/DSA/tree/master/0981-time-based-key-value-store) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajnegii/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuvrajnegii/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yuvrajnegii/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvrajnegii/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yuvrajnegii/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -536,4 +539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajnegii/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yuvrajnegii/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
