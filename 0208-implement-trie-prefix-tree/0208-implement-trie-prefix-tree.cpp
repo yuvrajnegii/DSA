@@ -30,31 +30,24 @@ public:
 
     bool search(string word) {
         Node* node = root;
-
         for(char ch : word) {
             int idx = ch - 'a';
 
             if(node->links[idx] == nullptr)
                 return false;
-
             node = node->links[idx];
         }
-
         return node->flag;
     }
 
     bool startsWith(string prefix) {
         Node* node = root;
-
         for(char ch : prefix) {
             int idx = ch - 'a';
-
             if(node->links[idx] == nullptr)
                 return false;
-
             node = node->links[idx];
         }
-
         return true;
     }
 };
