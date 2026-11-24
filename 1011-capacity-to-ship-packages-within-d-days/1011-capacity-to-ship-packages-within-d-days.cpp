@@ -5,6 +5,7 @@ public:
         int low = *max_element(weights.begin(), weights.end());
         for(int n : weights)
             high += n;
+        
         while(low <= high) {
             int mid = low + (high - low) / 2;
             int day = 1;
