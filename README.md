@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yuvrajnegii/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yuvrajnegii/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrajnegii/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/yuvrajnegii/DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuvrajnegii/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/yuvrajnegii/DSA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/yuvrajnegii/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yuvrajnegii/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/yuvrajnegii/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/yuvrajnegii/DSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/yuvrajnegii/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/yuvrajnegii/DSA/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/yuvrajnegii/DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuvrajnegii/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
