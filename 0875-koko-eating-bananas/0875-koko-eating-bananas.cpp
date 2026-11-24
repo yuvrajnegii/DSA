@@ -7,9 +7,8 @@ public:
         while(low<=high){
             int mid=low+(high-low)/2;
             long long hr=0;
-            for(int i=0;i<k;i++){
+            for(int i=0;i<k;i++)
                 hr += ((long long)piles[i] + mid-1)/mid;
-            }
             if(hr<=h)
                 high=mid-1;
             else
